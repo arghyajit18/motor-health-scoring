@@ -1,5 +1,9 @@
 # Motor Health Scoring from Current and Vibration Signatures
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://motor-health-scoring-taxicqlsuzs3kbbmnyusy6.streamlit.app/)
+
+**Live demo:** https://motor-health-scoring-taxicqlsuzs3kbbmnyusy6.streamlit.app/
+
 Fleet-level motor condition monitoring: daily short current and vibration recordings are turned into spectral fault indicators, scored 0-100, and ranked with shop-floor actions.
 
 ## Outcomes
