@@ -1,0 +1,5 @@
+motor_id,motor_type,day,health,status,suspected_cause,action,iforest_anomaly
+KI16,TestRig,79,51.6,Alert,Bearing defect frequencies,Replace DE/NDE bearings at next planned stop,False
+KI04,TestRig,79,60.0,Watch,Bearing defect frequencies,Replace DE/NDE bearings at next planned stop,False
+K002,TestRig,79,96.1,Healthy,Phase unbalance / overload,"Check supply balance, terminal tightness and winding insulation",False
+K001,TestRig,79,100.0,Healthy,Bearing defect frequencies,Replace DE/NDE bearings at next planned stop,False

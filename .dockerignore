@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/waveforms.npz
+data/waves_clean.npz
+data/paderborn_rars/
+data/paderborn_mats/
+backup_synthetic/
+backup_real/
+outputs/*.png
+.git

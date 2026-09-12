@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.npz
+data/paderborn_rars/
+data/paderborn_mats/
+backup_synthetic/
+backup_real/
+outputs/*.joblib

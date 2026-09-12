@@ -1,0 +1,13 @@
+{
+  "readings": 320,
+  "motors": 4,
+  "precision_alert_critical": 1.0,
+  "recall_alert_critical": 0.9,
+  "mean_early_warning_lead_days": null,
+  "motors_by_status": {
+    "Healthy": 2,
+    "Watch": 1,
+    "Alert": 1
+  },
+  "baseline": "healthy motors, first 10 days"
+}
